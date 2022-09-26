@@ -1,6 +1,3 @@
-## Hi there 👋
-
-**Here are some ideas to get you started:**
 <br>
 
 <p align="center">
@@ -8,3 +5,7 @@
 </p>
 
 <hr>
+
+## Hi there 👋
+
+**Here are some ideas to get you started:**
